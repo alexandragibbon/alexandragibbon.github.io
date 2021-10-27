@@ -3219,7 +3219,8 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-	/* Footer */
+	/* Unordered list */
+	/*
 			ul.ul-interests li{
 				font-size:.9rem
 				color:blue;
@@ -3240,5 +3241,5 @@ input, select, textarea {
 				font-size:.75rem;
 				color:rgba(0,0,0,.6)
 			}
-
+ */
 	}
