@@ -3050,26 +3050,6 @@ input, select, textarea {
 			ul.icons li .icon {
 				font-size: 1.25em;
 			}
-			ul.ul-interests li{
-				font-size:.9rem
-				color:blue;
-			}
-
-			ul.ul-edu{list-style:none}
-
-			ul.ul-edu li{position:relative;padding:0 15px 4px 3px}
-
-			ul.ul-edu li .description p{margin:0}
-
-			ul.ul-edu li .description p.course{
-				font-size:.9rem
-				color:red;
-			}
-
-			ul.ul-edu li .description p.institution{
-				font-size:.75rem;
-				color:rgba(0,0,0,.6)
-			}
 
 		/* Header */
 
@@ -3237,6 +3217,28 @@ input, select, textarea {
 				line-height: 2.25em;
 				margin-left: 0;
 				padding-left: 0;
+			}
+
+	/* Footer */
+			ul.ul-interests li{
+				font-size:.9rem
+				color:blue;
+			}
+
+			ul.ul-edu{list-style:none}
+
+			ul.ul-edu li{position:relative;padding:0 15px 4px 3px}
+
+			ul.ul-edu li .description p{margin:0}
+
+			ul.ul-edu li .description p.course{
+				font-size:.9rem
+				color:red;
+			}
+
+			ul.ul-edu li .description p.institution{
+				font-size:.75rem;
+				color:rgba(0,0,0,.6)
 			}
 
 	}
