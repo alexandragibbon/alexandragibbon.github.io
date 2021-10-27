@@ -3050,7 +3050,10 @@ input, select, textarea {
 			ul.icons li .icon {
 				font-size: 1.25em;
 			}
-			ul.ul-interests li{font-size:.9rem}
+			ul.ul-interests li{
+				font-size:.9rem
+				color:blue;
+			}
 
 			ul.ul-edu{list-style:none}
 
