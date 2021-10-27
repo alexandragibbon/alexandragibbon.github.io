@@ -1,4 +1,4 @@
 # SITE CONFIGURATION
 url: "https://alexandragibbon.github.io"
-
+permalink: /index.html
 theme: jekyll-theme-slate
