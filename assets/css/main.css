@@ -3058,7 +3058,10 @@ input, select, textarea {
 
 			ul.ul-edu li .description p{margin:0}
 
-			ul.ul-edu li .description p.course{font-size:.9rem}
+			ul.ul-edu li .description p.course{
+				font-size:.9rem
+				color:red;
+			}
 
 			ul.ul-edu li .description p.institution{
 				font-size:.75rem;
