@@ -3048,6 +3048,7 @@ input, select, textarea {
 		/* List */
 
 			ul.icons li .icon {
+				color:red;
 				font-size: 1.25em;
 			}
 
