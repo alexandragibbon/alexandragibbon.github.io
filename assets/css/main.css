@@ -3051,9 +3051,8 @@ input, select, textarea {
 				font-size: 1.25em;
 			}
 
-			.ul-edu fa-ul .institution{
-				font-size: 20px;
-			}
+			ul.ul-edu li .description p.institution{font-size:.75rem;color:rgba(0,0,0,.6)}
+
 		/* Header */
 
 			#header {
