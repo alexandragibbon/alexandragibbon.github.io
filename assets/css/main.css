@@ -2313,7 +2313,7 @@ input, select, textarea {
 			/* Unordered list */
 
 				ul.ul-interests li{
-					font-size:0.9rem;
+					font-size:1.3rem;
 				}
 
 				ul.ul-edu{
@@ -2323,7 +2323,7 @@ input, select, textarea {
 				ul.ul-edu li{
 					position:relative;
 					padding:0 15px 4px 3px;
-					font-size:0.9rem;
+					font-size:1.3rem;
 				}
 
 				ul.ul-edu li .description p{
