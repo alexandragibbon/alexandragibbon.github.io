@@ -2312,32 +2312,20 @@ input, select, textarea {
 
 			/* Unordered list */
 
-					ul.ul-interests li{
-						font-size:1.5rem
-					}
+				ul.ul-interests li{
+					font-size:.9rem
+					color:blue;
+				}
 
-					ul.ul-edu{
-						list-style:none
-					}
+				ul.ul-edu{list-style:none}
 
-					ul.ul-edu li{
-						position:relative;
-						vpadding:0 15px 4px 3px;
-						font-size:1.5rem
-					}
+				ul.ul-edu li{position:relative;padding:0 15px 4px 3px}
 
-					ul.ul-edu li .description p{
-						margin:0
-					}
+				ul.ul-edu li .description p{margin:0}
 
-					ul.ul-edu li .description p.course{
-						font-size:0.7rem
-					}
+				ul.ul-edu li .description p.course{font-size:.9rem}
 
-					ul.ul-edu li .description p.institution{
-						font-size:.4rem;
-						color:rgba(0,0,0,.6)
-					}
+				ul.ul-edu li .description p.institution{font-size:.75rem;color:rgba(0,0,0,.6)}
 
 		@media screen and (max-width: 480px) {
 
