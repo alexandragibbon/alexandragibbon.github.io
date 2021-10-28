@@ -2323,9 +2323,9 @@ input, select, textarea {
 
 					ul.ul-edu li .description p{margin:0}
 
-					ul.ul-edu li .description p.course{font-size:.9rem}
+					ul.ul-edu li .description p.course{font-size:1.2rem}
 
-					ul.ul-edu li .description p.institution{font-size:.75rem;color:rgba(0,0,0,.6)}
+					ul.ul-edu li .description p.institution{font-size:.9rem;color:rgba(0,0,0,.6)}
 
 		@media screen and (max-width: 480px) {
 
