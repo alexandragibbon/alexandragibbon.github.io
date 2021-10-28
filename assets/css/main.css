@@ -2649,7 +2649,7 @@ input, select, textarea {
 		left: 0;
 		padding: 8em 4em;
 		position: fixed;
-		text-align: center;
+		text-align: right;
 		top: 0;
 		width: 28%;
 	}
@@ -2683,7 +2683,7 @@ input, select, textarea {
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
-			style: "text-align:left";
+			style: "text-align:center";
 		}
 
 		#header .image.avatar {
