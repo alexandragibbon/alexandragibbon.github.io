@@ -2323,7 +2323,7 @@ input, select, textarea {
 				ul.ul-edu li{
 					position:relative;
 					padding:0 15px 4px 3px;
-					font-size:14pt
+					font-size:0.9rem
 				}
 
 				ul.ul-edu li .description p{
