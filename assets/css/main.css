@@ -2323,20 +2323,21 @@ input, select, textarea {
 				ul.ul-edu li{
 					position:relative;
 					padding:0 15px 4px 3px;
-					font-size:1.5rem
+					font-size:16pt
 				}
 
 				ul.ul-edu li .description p{
 					margin:0;
-					font-size:1.5rem
+					/*font-size:1.5rem*/
 				}
 
 				ul.ul-edu li .description p.course{
-					font-size:1.5rem
+					/*font-size:1.5rem*/
 				}
 
 				ul.ul-edu li .description p.institution{
-					font-size:.75rem;color:rgba(0,0,0,.6)
+					/*font-size:.75rem;*/
+					color:rgba(0,0,0,.6)
 				}
 
 		@media screen and (max-width: 480px) {
