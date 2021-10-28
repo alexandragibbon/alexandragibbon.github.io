@@ -2310,6 +2310,23 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			/* Unordered list */
+
+					ul.ul-interests li{
+						font-size:.9rem
+						color:blue;
+					}
+
+					ul.ul-edu{list-style:none}
+
+					ul.ul-edu li{position:relative;padding:0 15px 4px 3px}
+
+					ul.ul-edu li .description p{margin:0}
+
+					ul.ul-edu li .description p.course{font-size:.9rem}
+
+					ul.ul-edu li .description p.institution{font-size:.75rem;color:rgba(0,0,0,.6)}
+
 		@media screen and (max-width: 480px) {
 
 			ul.actions:not(.fixed) {
@@ -3219,27 +3236,6 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-	/* Unordered list */
-	/*
-			ul.ul-interests li{
-				font-size:.9rem
-				color:blue;
-			}
 
-			ul.ul-edu{list-style:none}
 
-			ul.ul-edu li{position:relative;padding:0 15px 4px 3px}
-
-			ul.ul-edu li .description p{margin:0}
-
-			ul.ul-edu li .description p.course{
-				font-size:.9rem
-				color:red;
-			}
-
-			ul.ul-edu li .description p.institution{
-				font-size:.75rem;
-				color:rgba(0,0,0,.6)
-			}
- */
 	}
