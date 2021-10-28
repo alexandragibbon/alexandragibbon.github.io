@@ -2695,13 +2695,13 @@ input, select, textarea {
 		}
 		/* Nav bar */
 				/* Add a black background color to the top navigation */
-				#header .topnav {
+				.topnav {
 				  background-color: #333;
 				  overflow: hidden;
 				}
 
 				/* Style the links inside the navigation bar */
-				#header .topnav a {
+				 .topnav a {
 				  float: left;
 				  color: #f2f2f2;
 				  text-align: center;
@@ -2711,13 +2711,13 @@ input, select, textarea {
 				}
 
 				/* Change the color of links on hover */
-				#header .topnav a:hover {
+				.topnav a:hover {
 				  background-color: #ddd;
 				  color: black;
 				}
 
 				/* Add a color to the active/current link */
-				#header .topnav a.active {
+				 .topnav a.active {
 				  background-color: #04AA6D;
 				  color: white;
 				}
