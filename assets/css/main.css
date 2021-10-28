@@ -2337,8 +2337,8 @@ input, select, textarea {
 
 				ul.ul-edu li .description p.institution{
 					font-size:0.75em;
+					color:rgba(0,0,0,.6);
 					/*font-size:11pt;*/
-					color:rgba(0,0,0,.6)
 				}
 
 		@media screen and (max-width: 480px) {
