@@ -2378,6 +2378,7 @@ input, select, textarea {
 
 		}
 
+
 /* Table */
 
 	.table-wrapper {
@@ -2589,6 +2590,23 @@ input, select, textarea {
 			margin: 0;
 		}
 
+
+
+		/* BUTTON */
+		.btn-outline-primary{color:#fbbfb7;border-color:#fbbfb7}
+		.btn-outline-primary:hover{color:#212529;background-color:#fbbfb7;border-color:#fbbfb7}
+		.btn-outline-primary:focus,
+		.btn-outline-primary.focus{box-shadow:0 0 0 .2rem rgba(251,191,183,.5)}
+		.btn-outline-primary.disabled,
+		.btn-outline-primary:disabled{color:#fbbfb7;background-color:initial}
+		.btn-outline-primary:not(:disabled):not(.disabled):active,
+		.btn-outline-primary.active:not(:disabled):not(.disabled),.show>
+		.btn-outline-primary.dropdown-toggle{color:#212529;background-color:#fbbfb7;border-color:#fbbfb7}
+		.btn-outline-primary:not(:disabled):not(.disabled):active:focus,
+		.btn-outline-primary.active:not(:disabled):not(.disabled):focus,.show>
+		.btn-outline-primary.dropdown-toggle:focus{box-shadow:0 0 0 .2rem rgba(251,191,183,.5)}
+
+
 /* Header */
 
 	#header {
@@ -2657,8 +2675,8 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 150px;
-	  	height: 150px;
+			width: 160px;
+	  	height: 160px;
 		}
 
 /* Footer */
