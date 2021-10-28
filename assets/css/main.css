@@ -2314,16 +2314,19 @@ input, select, textarea {
 
 				ul.ul-interests li{
 					font-size:.9rem
-					color:blue;
 				}
 
 				ul.ul-edu{list-style:none}
 
 				ul.ul-edu li{position:relative;padding:0 15px 4px 3px}
 
-				ul.ul-edu li .description p{margin:0}
+				ul.ul-edu li .description p{
+					margin:0
+				}
 
-				ul.ul-edu li .description p.course{font-size:.9rem}
+				ul.ul-edu li .description p.course{
+					font-size:1.5rem
+				}
 
 				ul.ul-edu li .description p.institution{font-size:.75rem;color:rgba(0,0,0,.6)}
 
@@ -2671,7 +2674,7 @@ input, select, textarea {
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
-			style: "text-align:center";
+			style: "text-align:right";
 		}
 
 		#header .image.avatar {
