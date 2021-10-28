@@ -2605,22 +2605,6 @@ input, select, textarea {
 		}
 
 
-
-		/* BUTTON */
-		.btn-outline-primary{color:#fbbfb7;border-color:#fbbfb7}
-		.btn-outline-primary:hover{color:#212529;background-color:#fbbfb7;border-color:#fbbfb7}
-		.btn-outline-primary:focus,
-		.btn-outline-primary.focus{box-shadow:0 0 0 .2rem rgba(251,191,183,.5)}
-		.btn-outline-primary.disabled,
-		.btn-outline-primary:disabled{color:#fbbfb7;background-color:initial}
-		.btn-outline-primary:not(:disabled):not(.disabled):active,
-		.btn-outline-primary.active:not(:disabled):not(.disabled),.show>
-		.btn-outline-primary.dropdown-toggle{color:#212529;background-color:#fbbfb7;border-color:#fbbfb7}
-		.btn-outline-primary:not(:disabled):not(.disabled):active:focus,
-		.btn-outline-primary.active:not(:disabled):not(.disabled):focus,.show>
-		.btn-outline-primary.dropdown-toggle:focus{box-shadow:0 0 0 .2rem rgba(251,191,183,.5)}
-
-
 /* Header */
 
 	#header {
